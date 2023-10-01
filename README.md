@@ -1,3 +1,4 @@
 # demo
 this is my first repository
-<h>Author- Rohit Maheshwari</h>
+<br>
+<h3>Author- Rohit Maheshwari</h3>
